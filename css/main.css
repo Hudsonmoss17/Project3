@@ -59,7 +59,7 @@ header {
 
   }
 
-  .heading2 {
+  .heading1 {
     font-size: 4em;
     font-family: "ouma-latin-variable",sans-serif;
     font-variation-settings: 'wght' 700;
@@ -102,9 +102,9 @@ margin-top: 15%;
 
 }
 
-  .footer1 {
+  footer {
     background-color: #005940;
-    color: white;
+    color: black;
     position:fixed;
     bottom:0;
     left:0;
