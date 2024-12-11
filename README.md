@@ -19,3 +19,5 @@ Illustrator file
 Fonts 
 Credit to sources I find
 
+<img src="/pictures/mmhgreen-02.png" alt="aaa">
+<p class="normalText">Motors for Mens Health is a non-profit organization working to educate the population on mens health issues such as prostate and testicular cancer and mental health. We work closely with the team at Movember to donate our proceeds to chairities to help Movembers cause. </p>
