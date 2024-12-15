@@ -19,10 +19,10 @@ Illustrator file
 Fonts 
 Credit to sources I find
 
-        <div class="footer1"> </div>
-             <div class="contactus"> <p>Contact us!</p> </div>
-             <div class="contactmov"> <p>Contact Movember!</p> </div>
-             <div class="movlogo"> movlogo </div>
+pg3 flexbox: https://www.youtube.com/watch?v=qXRYMdvq_Dc&t=314s
 
+Badge mockup: https://mockups-design.com/free-lanyard-id-badge-mockup/
 
-        </div>
+Shirt mockup: https://www.behance.net/gallery/199309923/Free-Cap-Hat-Mockup-PSD?tracking_source=search_projects|free+cap+mockup&l=2
+
+Hat mockup:https://www.behance.net/gallery/199309923/Free-Cap-Hat-Mockup-PSD?tracking_source=search_projects|free+cap+mockup&l=2 
