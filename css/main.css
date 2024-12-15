@@ -1,3 +1,10 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
 h2 {
   font-family: "futura-pt", sans-serif;
   font-weight: 400;
@@ -22,6 +29,17 @@ h2 {
   text-decoration: none;
   color: white;
   background-color: #83232D;  
+  font-size: 2em;
+  font-family: "ouma-latin-variable",sans-serif;
+  font-variation-settings: 'wght' 700;
+  position: relative;
+  
+}
+
+.apg3 {
+  text-decoration: none;
+  color: white;
+  background-color: #034159;  
   font-size: 2em;
   font-family: "ouma-latin-variable",sans-serif;
   font-variation-settings: 'wght' 700;
@@ -71,6 +89,24 @@ header {
     width: 100%;
     z-index: 99;
     position: fixed;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+ 
+  }
+
+  .heading3 {
+    font-size: 4em;
+    font-family: "ouma-latin-variable",sans-serif;
+    font-variation-settings: 'wght' 700;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: #034159;
+    height: 200px;
+    width: 100%;
+    z-index: 99;
+    position: fixed;
     margin-top: 0;
     margin-left: 0;
     margin-right: 0;
@@ -97,6 +133,31 @@ header {
 
   }
 
+  .normalText2 {
+    font-size: 1.5em;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 400px;
+    margin-top: 500px;
+    position: fixed;
+    top: -200px;
+    left: 100px;
+    
+  }
+  /*FIX THIS AND HEADER ASAP^^^^/*
+
+ /* .dayone {
+
+  }
+
+  .daytwo {
+    
+  }
+
+  .daythree {
+    
+  }*/
 
 
 .containerpg1 {
@@ -107,6 +168,54 @@ header {
 
 
     
+}
+
+.containerpg3 {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-wrap: nowrap;
+ 
+
+}
+
+.card {
+  background-color: #034159;
+
+  width: 480px;
+  height: 800px;
+  margin: 20px;
+  border-radius: 15px;
+
+}
+
+.card-image {
+
+  height: 400px;
+  margin-bottom: 15px;
+  background-size: cover;
+  border-radius: 15px 15px 0 0;
+
+}
+
+.badgega {
+  background-image: url(../page3/pictures/gaPassv1.png);
+}
+
+.badgevip{
+  background-image: url(../page3/pictures/vipPassv1.png);
+}
+
+.badgemedia {
+  background-image: url(../page3/pictures/mediaPassv4.png);
+}
+
+.shirt {
+  background-image: url(../page3/pictures/mmhshirtv1.png);
+}
+
+.hat {
+  background-image: url(../page3/pictures/mmhhatv1.png);
 }
 
 .about {
@@ -127,11 +236,8 @@ margin-top: 15%;
 }
 
   footer {
-    background-color: #005940;
     color: black;
     position:fixed;
-    bottom:0;
-    left:0;
     height: 8%;
     width: 100%;
     margin-bottom: 0%;
@@ -140,6 +246,7 @@ margin-top: 15%;
   }
  
   .footer1 {
+    background-color: #005940;
     display: flex;
     flex-direction: column;
     font-size: 2em;
