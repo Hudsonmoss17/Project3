@@ -23,6 +23,6 @@ pg3 flexbox: https://www.youtube.com/watch?v=qXRYMdvq_Dc&t=314s
 
 Badge mockup: https://mockups-design.com/free-lanyard-id-badge-mockup/
 
-Shirt mockup: https://www.behance.net/gallery/199309923/Free-Cap-Hat-Mockup-PSD?tracking_source=search_projects|free+cap+mockup&l=2
+Shirt mockup: https://creativecloud.adobe.com/cc/discover/article/mock-up-a-t-shirt-design-with-adobe-photoshop?gclid=CjwKCAiAmfq6BhAsEiwAX1jsZ5xzUV_3mtq_llUQxdXB0D_thj-0VztIa7KugMj530xpyBKElJQkWRoCLBYQAvD_BwE&ef_id=CjwKCAiAmfq6BhAsEiwAX1jsZ5xzUV_3mtq_llUQxdXB0D_thj-0VztIa7KugMj530xpyBKElJQkWRoCLBYQAvD_BwE:G:s&s_kwcid=AL!3085!3!271333471100!!!g!!!1412740539!61040082692&mv=search&gad_source=1&locale=en
 
 Hat mockup:https://www.behance.net/gallery/199309923/Free-Cap-Hat-Mockup-PSD?tracking_source=search_projects|free+cap+mockup&l=2 
