@@ -10,14 +10,18 @@
 
 # Technical Overview:
 
-
+    By using Flexboxes and accurately styling each word, I created a site that is very clean and easy to read while still putting detail into every page. 
 
 # Acknowledgment: 
 
-Attach indesign file
-Illustrator file
-Fonts 
-Credit to sources I find
+Indesign file:[text](<../../../Desktop/Design/WEBSITE DESIGN/Project3/Hudson_M_DES228_ProjectThreeBrandGuide.indd>)
+
+Illustrator file:[text](<../../../Desktop/Design/WEBSITE DESIGN/Project3/project3mockups.ai>)
+
+Fonts:
+ Ouma Latin Variable: https://fonts.adobe.com/fonts/ouma-latin-variable
+Futura: https://fonts.adobe.com/fonts/futura-pt
+
 
 pg3 flexbox: https://www.youtube.com/watch?v=qXRYMdvq_Dc&t=314s
 
